@@ -1,12 +1,17 @@
+# OrangeFox Theme
+
+VSCode theme inspired by Firefox with orange accents. Still a work in progress.
+
 ## Screenshot
 
-![Screenshot](img.png)
+![Screenshot](/images/img.png)
 
-## Instalation
+## Installation
 
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=quzma.orangefox)
 
 ## Changelog
 
-0.0.2 - README.md changes
+0.1.0 - Small changes and fixes
+0.0.2 - README.md changes\
 0.0.1 - Initial Release

@@ -1,8 +1,9 @@
 {
   "name": "orangefox",
   "displayName": "OrangeFox",
-  "description": "Orange Fox VS Code Theme",
-  "version": "0.0.2",
+  "description": "Clean dark theme with orange accent, inspired by Firefox",
+  "icon": "images/icon.png",
+  "version": "0.1.0",
   "publisher": "quzma",
   "engines": {
     "vscode": "^1.92.0"
