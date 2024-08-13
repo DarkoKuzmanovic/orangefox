@@ -1,0 +1,22 @@
+{
+  "name": "orangefox",
+  "displayName": "OrangeFox",
+  "description": "Orange Fox VS Code Theme",
+  "version": "0.0.1",
+  "publisher": "quzma",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OrangeFox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OrangeFox-color-theme.json"
+      }
+    ]
+  }
+}
