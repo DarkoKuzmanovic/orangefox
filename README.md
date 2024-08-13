@@ -8,4 +8,5 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ## Changelog
 
-0.0.1 - Initial Release (13/08/2024)
+0.0.2 - README.md changes
+0.0.1 - Initial Release
