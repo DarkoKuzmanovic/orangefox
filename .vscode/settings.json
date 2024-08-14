@@ -9,5 +9,7 @@
         "readwrite",
         "setext",
         "typehinted"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+    }
 }
