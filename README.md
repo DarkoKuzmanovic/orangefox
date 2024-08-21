@@ -17,6 +17,8 @@ This extension is available for free in the [Visual Studio Code Marketplace](htt
 
 ## Changelog
 
+0.4.2 - Repackaged VSIX to trim down size\
+0.4.1 - Minor issues fixed\
 0.4.0 - Polished UI colors and contrast\
 0.3.0 - New syntax highlighting
 0.2.5 - More color tweaks\
