@@ -1,5 +1,6 @@
 ## Changelog
 
+0.4.0 - Polished UI colors and contrast\
 0.3.0 - New syntax highlighting - inspired by [Ayu theme](https://github.com/ayu-theme/vscode-ayu)\
 0.2.5 - More color tweaks\
 0.2.0 - Fine-tuned colors and changed syntax highlighting for better readability\
