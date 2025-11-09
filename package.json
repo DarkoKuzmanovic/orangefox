@@ -3,13 +3,18 @@
   "displayName": "OrangeFox",
   "description": "Clean dark theme with orange accent, inspired by Firefox",
   "icon": "images/icon.png",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "publisher": "quzma",
   "homepage": "https://quz.ma",
   "engines": {
     "vscode": "^1.92.0"
   },
-  "tags": ["dark", "orange", "scheme", "firefox-inspired"],
+  "tags": [
+    "dark",
+    "orange",
+    "scheme",
+    "firefox-inspired"
+  ],
   "categories": [
     "Themes"
   ],
@@ -25,10 +30,5 @@
         "path": "./themes/OrangeFox-color-theme.json"
       }
     ]
-  },
-  "files": [
-    "**/*",
-    "!**/*.psd",
-    "!**/*.ai"
-  ]
+  }
 }
