@@ -1732,12 +1732,12 @@
 
     "list.inactiveSelectionBackground": "#202124",
     "list.inactiveSelectionForeground": "#cccccc",
-    "list.hoverBackground": "#ff6b353b",
+    "list.hoverBackground": "#ff6b3555",
     "list.hoverForeground": "#cccccc",
     "list.activeSelectionBackground": "#ff6b356e",
     "list.activeSelectionForeground": "#ffffff",
     "tree.indentGuidesStroke": "#35363a",
-    "list.dropBackground": "#65372355",
+    "list.dropBackground": "#653723",
     "list.highlightForeground": "#ff6b35",
     "list.focusBackground": "#653723",
     "list.focusForeground": "#cccccc",
@@ -1789,7 +1789,7 @@
     "inputOption.activeForeground": "#ffffff",
     "input.placeholderForeground": "#ffffff6c",
 
-    "textLink.foreground": "#ff6b35a1",
+    "textLink.foreground": "#ff6b35",
     "editor.background": "#202124",
     "editor.foreground": "#cccccc",
     "editorLineNumber.foreground": "#999999",
@@ -1852,7 +1852,7 @@
     "badge.foreground": "#ffffff",
 
     "terminal.foreground": "#cccccc",
-    "terminal.selectionBackground": "#ff6b3555",
+    "terminal.selectionBackground": "#ff6b3580",
     "terminalCursor.background": "#ff6b35",
     "terminalCursor.foreground": "#ffffff",
     "terminal.border": "#292a2d",
