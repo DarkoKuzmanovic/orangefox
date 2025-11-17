@@ -1,8 +1,12 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.gitattributes
 vsc-extension-quickstart.md
 **/*.psd
 **/*.ai
 **/*.backup
-ti
+git
+*.vsix
+*.zip
+node_modules

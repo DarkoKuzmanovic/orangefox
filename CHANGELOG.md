@@ -1,5 +1,6 @@
 ## Changelog
 
+0.6.0 - Added OrangeFox Light theme, renamed "OrangeFox Color" to "OrangeFox Dark"
 0.4.2 - Repackaged VSIX to trim down size\
 0.4.1 - Minor issues fixed\
 0.4.0 - Polished UI colors and contrast\
