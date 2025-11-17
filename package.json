@@ -3,7 +3,7 @@
   "displayName": "OrangeFox",
   "description": "Clean dark theme with orange accent, inspired by Firefox",
   "icon": "images/icon.png",
-  "version": "0.6.0",
+  "version": "0.7.0",
   "publisher": "quzma",
   "homepage": "https://quz.ma",
   "engines": {
